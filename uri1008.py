@@ -1,0 +1,6 @@
+ID = int(input(""))
+H = int(input(""))
+V = float(input(""))
+SALARIO = (H * V)
+print(f"NUMBER = {ID}")
+print(f"SALARY = U$ {SALARIO:.2F}")
